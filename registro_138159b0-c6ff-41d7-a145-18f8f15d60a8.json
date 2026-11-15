@@ -1,0 +1,17 @@
+{
+    "nombre": "Mireira De Los Angeles",
+    "apellido": "Reatana Vasquez",
+    "email": "mireiravasquez7@gmail.com",
+    "token": "138159b0-c6ff-41d7-a145-18f8f15d60a8",
+    "fecha_utc": "2026-11-15T21:52:13.339582+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "89e621a0607d",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "2f1a2e063597f95e13b54aaddab48951178363d041502708c9b011bf0d5e0c9b"
+}
